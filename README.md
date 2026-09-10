@@ -2,8 +2,6 @@
 
 An end-to-end quantitative finance simulator for European option delta hedging, featuring traditional mathematical models and advanced deep learning-based hedging strategies. 
 
-**Author**: Shahzeb Arshad
-
 ## 📊 Project Overview
 This project simulates dynamic delta hedging for short European call options. It compares traditional Black-Scholes hedging against a custom Neural-Network (LSTM) hedger across multiple market scenarios, including Geometric Brownian Motion (GBM), stress conditions, and adversarial paths.
 
